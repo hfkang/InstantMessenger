@@ -1,10 +1,3 @@
-/*********************************************************
-*  Name: Francis Kang                                    *
-*  Course: ICS 4M  Pd. 5                                 *
-*  Assignment #1                                         *
-*  Purpose: End of Year Summative: Instant Messenger     *
-*  Due Date: May 2014                                    *
-*********************************************************/
 import java.net.*;
 import java.io.*;
 
